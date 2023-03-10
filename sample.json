@@ -1,0 +1,1681 @@
+{
+    "Sunday": null,
+    "Monday": {
+        "Category": "Chest / Back / Biceps",
+        "Exercises": [
+            {
+                "Name": "Incline DB Press",
+                "Type": "SINGLE",
+                "Incline DB Press": {
+                    "Routine": [
+                        {
+                            "Sets": [
+                                {
+                                    "Type": "Count",
+                                    "Reps": "10-12",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "10-12",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "10-12",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "10-12",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                }
+                            ]
+                        },
+                        {
+                            "Sets": [
+                                {
+                                    "Type": "Count",
+                                    "Reps": "8-10",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "8-10",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "8-10",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "8-10",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                }
+                            ]
+                        },
+                        {
+                            "Sets": [
+                                {
+                                    "Type": "Count",
+                                    "Reps": "6-8",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "6-8",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "6-8",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "6-8",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Name": "Barbell Row",
+                "Type": "SINGLE",
+                "Barbell Row": {
+                    "Routine": [
+                        {
+                            "Sets": [
+                                {
+                                    "Type": "Count",
+                                    "Reps": "10-12",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "10-12",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "10-12",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "10-12",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                }
+                            ]
+                        },
+                        {
+                            "Sets": [
+                                {
+                                    "Type": "Count",
+                                    "Reps": "8-10",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "8-10",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "8-10",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "8-10",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                }
+                            ]
+                        },
+                        {
+                            "Sets": [
+                                {
+                                    "Type": "Count",
+                                    "Reps": "6-8",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "6-8",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "6-8",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "6-8",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Name": "Flat DB Press (SUPERSET) Lat Pulldown",
+                "Type": "SUPERSET",
+                "Flat DB Press": {
+                    "Routine": [
+                        {
+                            "Sets": [
+                                {
+                                    "Type": "Count",
+                                    "Reps": "12-15",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "10-12",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "8-10",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "DROPSET",
+                                    "Reps": {
+                                        "1": "6-8",
+                                        "2": "6-8",
+                                        "3": "6-8"
+                                    },
+                                    "Weight": {
+                                        "1": null,
+                                        "2": null,
+                                        "3": null
+                                    },
+                                    "Previous Weight": {
+                                        "1": null,
+                                        "2": null,
+                                        "3": null
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "Lat Pulldown": {
+                    "Routine": [
+                        {
+                            "Sets": [
+                                {
+                                    "Type": "Count",
+                                    "Reps": "12-15",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "10-12",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "8-10",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "DROPSET",
+                                    "Reps": {
+                                        "1": "6-8",
+                                        "2": "6-8",
+                                        "3": "6-8"
+                                    },
+                                    "Weight": {
+                                        "1": null,
+                                        "2": null,
+                                        "3": null
+                                    },
+                                    "Previous Weight": {
+                                        "1": null,
+                                        "2": null,
+                                        "3": null
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Name": "Seated Row (SUPERSET) Cable Fly",
+                "Type": "SUPERSET",
+                "Seated Row": {
+                    "Routine": [
+                        {
+                            "Sets": [
+                                {
+                                    "Type": "Count",
+                                    "Reps": "12-15",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "10-12",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "8-10",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "DROPSET",
+                                    "Reps": {
+                                        "1": "6-8",
+                                        "2": "6-8",
+                                        "3": "6-8"
+                                    },
+                                    "Weight": {
+                                        "1": null,
+                                        "2": null,
+                                        "3": null
+                                    },
+                                    "Previous Weight": {
+                                        "1": null,
+                                        "2": null,
+                                        "3": null
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "Cable Fly": {
+                    "Routine": [
+                        {
+                            "Sets": [
+                                {
+                                    "Type": "Count",
+                                    "Reps": "12-15",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "10-12",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "8-10",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "DROPSET",
+                                    "Reps": {
+                                        "1": "6-8",
+                                        "2": "6-8",
+                                        "3": "6-8"
+                                    },
+                                    "Weight": {
+                                        "1": null,
+                                        "2": null,
+                                        "3": null
+                                    },
+                                    "Previous Weight": {
+                                        "1": null,
+                                        "2": null,
+                                        "3": null
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Name": "Barbell Curl",
+                "Type": "SINGLE",
+                "Barbell Curl": {
+                    "Routine": [
+                        {
+                            "Sets": [
+                                {
+                                    "Type": "Count",
+                                    "Reps": "12-15",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "12-15",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "12-15",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "12-15",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                }
+                            ]
+                        },
+                        {
+                            "Sets": [
+                                {
+                                    "Type": "Count",
+                                    "Reps": "10-12",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "10-12",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "10-12",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "10-12",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                }
+                            ]
+                        },
+                        {
+                            "Sets": [
+                                {
+                                    "Type": "Count",
+                                    "Reps": "8-10",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "8-10",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "8-10",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "8-10",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "Tuesday": {
+        "Category": "Legs / Triceps",
+        "Exercises": [
+            {
+                "Name": "Squat",
+                "Type": "SINGLE",
+                "Squat": {
+                    "Routine": [
+                        {
+                            "Sets": [
+                                {
+                                    "Type": "Count",
+                                    "Reps": "10-12",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "10-12",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "10-12",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "10-12",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                }
+                            ]
+                        },
+                        {
+                            "Sets": [
+                                {
+                                    "Type": "Count",
+                                    "Reps": "8-10",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "8-10",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "8-10",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "8-10",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                }
+                            ]
+                        },
+                        {
+                            "Sets": [
+                                {
+                                    "Type": "Count",
+                                    "Reps": "6-8",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "6-8",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "6-8",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "6-8",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Name": "Leg Press",
+                "Type": "SINGLE",
+                "Leg Press": {
+                    "Routine": [
+                        {
+                            "Sets": [
+                                {
+                                    "Type": "Count",
+                                    "Reps": "15-20",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "12-15",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "10-12",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "DROPSET",
+                                    "Reps": {
+                                        "1": "6-8",
+                                        "2": "6-8",
+                                        "3": "6-8"
+                                    },
+                                    "Weight": {
+                                        "1": null,
+                                        "2": null,
+                                        "3": null
+                                    },
+                                    "Previous Weight": {
+                                        "1": null,
+                                        "2": null,
+                                        "3": null
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Name": "Leg Extension (SUPERSET) Hamstring Curl",
+                "Type": "SUPERSET",
+                "Leg Extension": {
+                    "Routine": [
+                        {
+                            "Sets": [
+                                {
+                                    "Type": "Count",
+                                    "Reps": "15-20",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "15-20",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "15-20",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "15-20",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "Hamstring Curl": {
+                    "Routine": [
+                        {
+                            "Sets": [
+                                {
+                                    "Type": "Count",
+                                    "Reps": "15-20",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "15-20",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "15-20",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "15-20",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Name": "Tricep Pushdown",
+                "Type": "SINGLE",
+                "Tricep Pushdown": {
+                    "Routine": [
+                        {
+                            "Sets": [
+                                {
+                                    "Type": "Count",
+                                    "Reps": "12-15",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "10-12",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "8-10",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "DROPSET",
+                                    "Reps": {
+                                        "1": "6-8",
+                                        "2": "6-8",
+                                        "3": "6-8"
+                                    },
+                                    "Weight": {
+                                        "1": null,
+                                        "2": null,
+                                        "3": null
+                                    },
+                                    "Previous Weight": {
+                                        "1": null,
+                                        "2": null,
+                                        "3": null
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Name": "French Press (SUPERSET) Calf Raise",
+                "Type": "SUPERSET",
+                "French Press": {
+                    "Routine": [
+                        {
+                            "Sets": [
+                                {
+                                    "Type": "Count",
+                                    "Reps": "10-12",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "10-12",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "10-12",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "Calf Raise": {
+                    "Routine": [
+                        {
+                            "Sets": [
+                                {
+                                    "Type": "Count",
+                                    "Reps": "15-20",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "15-20",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "15-20",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "Wednesday": {
+        "Category": "Shoulders / Biceps",
+        "Exercises": [
+            {
+                "Name": "LIGHT Seated Behind Neck Press",
+                "Type": "SINGLE",
+                "LIGHT Seated Behind Neck Press": {
+                    "Routine": [
+                        {
+                            "Sets": [
+                                {
+                                    "Type": "Count",
+                                    "Reps": "10-12",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "10-12",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "10-12",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "10-12",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                }
+                            ]
+                        },
+                        {
+                            "Sets": [
+                                {
+                                    "Type": "Count",
+                                    "Reps": "8-10",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "8-10",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "8-10",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "8-10",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                }
+                            ]
+                        },
+                        {
+                            "Sets": [
+                                {
+                                    "Type": "Count",
+                                    "Reps": "6-8",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "6-8",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "6-8",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "6-8",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Name": "Machine Lateral Raises",
+                "Type": "SINGLE",
+                "Machine Lateral Raises": {
+                    "Routine": [
+                        {
+                            "Sets": [
+                                {
+                                    "Type": "Count",
+                                    "Reps": "12-15",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "12-15",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "12-15",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "12-15",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "DROPSET",
+                                    "Reps": {
+                                        "1": "6-8",
+                                        "2": "6-8",
+                                        "3": "6-8"
+                                    },
+                                    "Weight": {
+                                        "1": null,
+                                        "2": null,
+                                        "3": null
+                                    },
+                                    "Previous Weight": {
+                                        "1": null,
+                                        "2": null,
+                                        "3": null
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Name": "CABLE LATERALS (SUPERSET) CABLE REVERSE FLY (SUPERSET) CABLE UPRIGHT ROW",
+                "Type": "SUPERSET",
+                "CABLE LATERALS": {
+                    "Routine": [
+                        {
+                            "Sets": [
+                                {
+                                    "Type": "Count",
+                                    "Reps": "12-15",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "12-15",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "12-15",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "CABLE REVERSE FLY": {
+                    "Routine": [
+                        {
+                            "Sets": [
+                                {
+                                    "Type": "Count",
+                                    "Reps": "12-15",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "12-15",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "12-15",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "CABLE UPRIGHT ROW": {
+                    "Routine": [
+                        {
+                            "Sets": [
+                                {
+                                    "Type": "Count",
+                                    "Reps": "12-15",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "12-15",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "12-15",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Name": "Spider Curl or Bicep Machine",
+                "Type": "SINGLE",
+                "Spider Curl or Bicep Machine": {
+                    "Routine": [
+                        {
+                            "Sets": [
+                                {
+                                    "Type": "Count",
+                                    "Reps": "12-15",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "12-15",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "12-15",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Name": "Free Bicep Exercise",
+                "Type": "SINGLE",
+                "Free Bicep Exercise": {
+                    "Routine": [
+                        {
+                            "Sets": [
+                                {
+                                    "Type": "Count",
+                                    "Reps": "?",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "?",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "?",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "Thursday": {
+        "Category": "Chest / Back",
+        "Exercises": [
+            {
+                "Name": "Bench Press",
+                "Type": "SINGLE",
+                "Bench Press": {
+                    "Routine": [
+                        {
+                            "Sets": [
+                                {
+                                    "Type": "Count",
+                                    "Reps": "10-12",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "10-12",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "10-12",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "10-12",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                }
+                            ]
+                        },
+                        {
+                            "Sets": [
+                                {
+                                    "Type": "Count",
+                                    "Reps": "8-10",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "8-10",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "8-10",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "8-10",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                }
+                            ]
+                        },
+                        {
+                            "Sets": [
+                                {
+                                    "Type": "Count",
+                                    "Reps": "6-8",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "6-8",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "6-8",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "6-8",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Name": "Neutral Grip Pulldown",
+                "Type": "SINGLE",
+                "Neutral Grip Pulldown": {
+                    "Routine": [
+                        {
+                            "Sets": [
+                                {
+                                    "Type": "Count",
+                                    "Reps": "10-12",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "10-12",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "10-12",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "10-12",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                }
+                            ]
+                        },
+                        {
+                            "Sets": [
+                                {
+                                    "Type": "Count",
+                                    "Reps": "8-10",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "8-10",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "8-10",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "8-10",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                }
+                            ]
+                        },
+                        {
+                            "Sets": [
+                                {
+                                    "Type": "Count",
+                                    "Reps": "6-8",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "6-8",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "6-8",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "6-8",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Name": "Incline Pause Bench Press",
+                "Type": "SINGLE",
+                "Incline Pause Bench Press": {
+                    "Routine": [
+                        {
+                            "Sets": [
+                                {
+                                    "Type": "Count",
+                                    "Reps": "12-15",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "10-12",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "8-10",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Name": "Chest Supported Row",
+                "Type": "SINGLE",
+                "Chest Supported Row": {
+                    "Routine": [
+                        {
+                            "Sets": [
+                                {
+                                    "Type": "Count",
+                                    "Reps": "12-15",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "10-12",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "8-10",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Name": "Cable Row (SUPERSET) Pec Dec Fly",
+                "Type": "SUPERSET",
+                "Cable Row": {
+                    "Routine": [
+                        {
+                            "Sets": [
+                                {
+                                    "Type": "Count",
+                                    "Reps": "12-15",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "12-15",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "12-15",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "Pec Dec Fly": {
+                    "Routine": [
+                        {
+                            "Sets": [
+                                {
+                                    "Type": "Count",
+                                    "Reps": "12-15",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "12-15",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "12-15",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "Friday": {
+        "Category": "Shoulders / Legs / Triceps",
+        "Exercises": [
+            {
+                "Name": "Standing Press",
+                "Type": "SINGLE",
+                "Standing Press": {
+                    "Routine": [
+                        {
+                            "Sets": [
+                                {
+                                    "Type": "Count",
+                                    "Reps": "6",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "6",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "6",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                }
+                            ]
+                        },
+                        {
+                            "Sets": [
+                                {
+                                    "Type": "Count",
+                                    "Reps": "6",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "6",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "6",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "6",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                }
+                            ]
+                        },
+                        {
+                            "Sets": [
+                                {
+                                    "Type": "Count",
+                                    "Reps": "6",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "6",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "6",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "6",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "6",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Name": "Smith Machine Squat",
+                "Type": "SINGLE",
+                "Smith Machine Squat": {
+                    "Routine": [
+                        {
+                            "Sets": [
+                                {
+                                    "Type": "Count",
+                                    "Reps": "15-20",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "12-15",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "10-12",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "8-10",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Name": "Smith Machine Shoulder Press",
+                "Type": "SINGLE",
+                "Smith Machine Shoulder Press": {
+                    "Routine": [
+                        {
+                            "Sets": [
+                                {
+                                    "Type": "Count",
+                                    "Reps": "12-15",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "12-15",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "12-15",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "12-15",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Name": "DB Bulgarian Split Squat",
+                "Type": "SINGLE",
+                "DB Bulgarian Split Squat": {
+                    "Routine": [
+                        {
+                            "Sets": [
+                                {
+                                    "Type": "Count",
+                                    "Reps": "10-12",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "8-10",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "6-8",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Name": "Lateral Raise (SUPERSET) Romanian Deadlift",
+                "Type": "SUPERSET",
+                "Lateral Raise": {
+                    "Routine": [
+                        {
+                            "Sets": [
+                                {
+                                    "Type": "Count",
+                                    "Reps": "12-15",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "10-12",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "8-10",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "8-10",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "Romanian Deadlift": {
+                    "Routine": [
+                        {
+                            "Sets": [
+                                {
+                                    "Type": "Count",
+                                    "Reps": "12-15",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "10-12",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "8-10",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "8-10",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "Name": "DB Skull Crusher",
+                "Type": "SINGLE",
+                "DB Skull Crusher": {
+                    "Routine": [
+                        {
+                            "Sets": [
+                                {
+                                    "Type": "Count",
+                                    "Reps": "10-12",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "10-12",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                },
+                                {
+                                    "Type": "Count",
+                                    "Reps": "10-12",
+                                    "Weight": null,
+                                    "Previous Weight": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "Saturday": null
+}
